@@ -41,7 +41,7 @@
     "axios": "^0.18.0",
     "axios-jsonp": "^1.0.2",
     "flag-icon-css": "^3.2.0",
-    "i18next": "^11.9.1",
+    "i18next": "19.8.3",
     "node-jose": "^1.1.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
